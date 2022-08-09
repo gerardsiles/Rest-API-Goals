@@ -1,4 +1,5 @@
 ### Goalsetter MERN App
+CRUD application with user and goals CRUD functionality
 
 #### Technologies used
 
